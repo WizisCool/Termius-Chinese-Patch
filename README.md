@@ -19,7 +19,10 @@ Termius 是一个非常美观且好用的远程SSH工具,无奈官方不支持�
 6. 重启Termius软件，享受中文界面。
 
 ## 项目截图 📸
-![项目截图](./ScreenShot/ScreenShot.png)
+![项目截图](./ScreenShot/ScreenShot.png)  
+
+**AI功能展示:**  
+![GIFAI展示](./ScreenShot/gif.gif)  
 
 ## 项目状态 🚀
 - 目前项目为非开源状态，仅供分享。

@@ -8,7 +8,7 @@ Termius 是一个非常美观且好用的远程SSH工具,无奈官方不支持�
 - **易于安装**：补丁包的安装过程简单明了，用户可以轻松地将其应用到Termius软件上。
 
 ## 下载补丁包 ⏬
-- [**点击下载**](https://file.dooo.ng/s/dksR)
+- [**点击下载**](./Termius-Chinese-Patch.zip)
 - **压缩包解压密码: dooo.ng**
 ## 安装教程 🔧
 1. 下载补丁压缩包。
@@ -19,7 +19,7 @@ Termius 是一个非常美观且好用的远程SSH工具,无奈官方不支持�
 6. 重启Termius软件，享受中文界面。
 
 ## 项目截图 📸
-![项目截图](https://image.dooo.ng/i/2023/11/19/jv84xh.jpeg)
+![项目截图](./ScreenShot/ScreenShot.png)
 
 ## 项目状态 🚀
 - 目前项目为非开源状态，仅供分享。
@@ -33,7 +33,6 @@ Termius 是一个非常美观且好用的远程SSH工具,无奈官方不支持�
 ## 贡献与支持 💬
 由于本项目目前不开源，因此不接受代码贡献。但用户的反馈和建议总是受欢迎的。如果您有任何问题或建议，请通过以下方式联系我们：
 
-- 本贴下方留言
 - Telegram：[WizisCool](https://t.me/WizisCool)
 - 个人网站:  [dooo.ng](https://dooo.ng)
 
